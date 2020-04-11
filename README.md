@@ -10,13 +10,12 @@ Before installing minikube itself, you should install kubectl command line inter
 <br />
 after successful install you can start check kubectl below command:<br />
 `kubectl version`
-<br />
+<br /><br />
 <b>Sample output</b>
 ```
 kubectl version
 Client Version: version.Info{Major:"1", Minor:"14", GitVersion:"v1.14.7", GitCommit:"8fca2ec50a6133511b771a11559e24191b1aa2b4", GitTreeState:"clean", BuildDate:"2019-09-18T14:47:22Z", GoVersion:"go1.12.9", Compiler:"gc", Platform:"darwin/amd64"}
 ```
-<br />
 
 ## minikube
 
